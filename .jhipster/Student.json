@@ -1,0 +1,14 @@
+{
+  "changelogDate": "20221206073152",
+  "fields": [
+    {
+      "fieldName": "ime",
+      "fieldType": "String"
+    }
+  ],
+  "name": "Student",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
